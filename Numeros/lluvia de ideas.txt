@@ -1,0 +1,14 @@
+lluvia de ideas ejercicio
+4 variables enteras en relacion a los numeros que se le solicitara al usuario
+3 variables enteras que hagan alusion al mayor,menor y el numero de en medio
+1 variable entera de sumatoria
+1 variable booleana 
+
+-----------
+realizar un if para realizar la distincion de que numero es mayor, de en medio 
+o menor
+ 
+al terminar el if de distincion de los ordenes de numero, realizar una suma para
+poder pasarse al siguiente if
+
+
